@@ -1,5 +1,5 @@
 # Projetinho-Microcontrolador
-Operações com LEDS em Assembly. Código para andar um bloco de n LEDS de um lado até o outro (depois n é incrementado e a sequência se inicia de novo).
+Mover bloco de N leds de um lado para outro e depois fazer o caminho contrário em microcontrolador. Isso é feito de N=0 até N=(quantidade total de LEDS no microcontrolador).
 
 ### Hardware
 Microcontrolador ATmega32U4.
