@@ -6,7 +6,7 @@
 ;
 
 .nolist      
-.include "m32U4def.inc"    ; defini??o do processador escolhido
+.include "m32U4def.inc"    ; definicao do processador escolhido
 .list
 
 .def		al      = r16
@@ -14,11 +14,11 @@
 .def		Delay2	= r18 ; Delay variable 2
 .def		Delay3	= r19 ; Delay variable 2
 
-.org 0x0000 //seta o ponteiro de onde vai escrever o codigo (vai para o comeco)
+.org 0x0000 ;seta o ponteiro de onde vai escrever o codigo (vai para o comeco)
 	RJMP ON_RESET ;RESET VECTOR (vetor de interrupcao)
 
 ON_RESET:
-	//Config de Stack Pointer 
+	;Config de Stack Pointer 
 	ldi 	R16, high(RAMEND)
 	out 	SPH, R16
 	ldi 	R16, low(RAMEND)

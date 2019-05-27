@@ -1,10 +1,10 @@
 
-AVRASM ver. 2.2.7  C:\Users\u17188\Desktop\Projeto\Projeto\main.asm Mon May 13 11:49:47 2019
+AVRASM ver. 2.2.7  C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm Mon May 27 11:28:31 2019
 
 [builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32u4def.inc'
-C:\Users\u17188\Desktop\Projeto\Projeto\main.asm(9): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32U4def.inc'
+C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm(9): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32U4def.inc'
 [builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32u4def.inc'
-C:\Users\u17188\Desktop\Projeto\Projeto\main.asm(9): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32U4def.inc'
+C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm(9): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32U4def.inc'
                                  
                                  ;
                                  
@@ -1413,11 +1413,11 @@ C:\Users\u17188\Desktop\Projeto\Projeto\main.asm(9): Including file 'C:/Program 
                                  .def		Delay2	= r18 ; Delay variable 2
                                  .def		Delay3	= r19 ; Delay variable 2
                                  
-                                 .org 0x0000 //seta o ponteiro de onde vai escrever o codigo (vai para o comeco)
+                                 .org 0x0000 ;seta o ponteiro de onde vai escrever o codigo (vai para o comeco)
 000000 c000                      	RJMP ON_RESET ;RESET VECTOR (vetor de interrupcao)
                                  
                                  ON_RESET:
-                                 	//Config de Stack Pointer 
+                                 	;Config de Stack Pointer 
 000001 e00a                      	ldi 	R16, high(RAMEND)
 000002 bf0e                      	out 	SPH, R16
 000003 ef0f                      	ldi 	R16, low(RAMEND)

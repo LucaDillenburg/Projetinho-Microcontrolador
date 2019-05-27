@@ -1,19 +1,19 @@
 <ASSEMBLER_INFO>
  <VERSION>2.2.7</VERSION>
  <DEVICE>"ATmega32U4"</DEVICE>
- <WORKING_DIR>C:\Users\u17188\Desktop\Projeto\Projeto\Debug</WORKING_DIR>
+ <WORKING_DIR>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
   <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
   <DIR></DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</SOURCE_FILE>
+ <SOURCE_FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32u4def.inc</FILE>
   <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32U4def.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>C:\Users\u17188\Desktop\Projeto\Projeto\Debug\Projeto.obj</FILE>
+  <FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\Debug\Projeto.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
   <FILE>Projeto.hex</FILE>
@@ -23,67 +23,67 @@
   <FILE>Projeto.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <ON_RESET><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>20</LINE></ON_RESET>
-  <start><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>33</LINE></start>
-  <apagar_todas_leds><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>267</LINE></apagar_todas_leds>
-  <loop1><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>38</LINE></loop1>
-  <acender_led><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>117</LINE></acender_led>
-  <loop_acender><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>47</LINE></loop_acender>
-  <delay_100><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>282</LINE></delay_100>
-  <apagar_led><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>192</LINE></apagar_led>
-  <fora_loop_acender><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>62</LINE></fora_loop_acender>
-  <subt_r20><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>67</LINE></subt_r20>
-  <fora_subt><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>74</LINE></fora_subt>
-  <loop_apagar><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>78</LINE></loop_apagar>
-  <acender_1><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>295</LINE></acender_1>
-  <acender_todas_leds><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>274</LINE></acender_todas_leds>
-  <a_led_2><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>123</LINE></a_led_2>
-  <fim_a_led><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>189</LINE></fim_a_led>
-  <a_led_3><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>129</LINE></a_led_3>
-  <acender_2><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>303</LINE></acender_2>
-  <a_led_4><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>135</LINE></a_led_4>
-  <acender_3><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>311</LINE></acender_3>
-  <a_led_5><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>141</LINE></a_led_5>
-  <acender_4><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>319</LINE></acender_4>
-  <a_led_6><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>147</LINE></a_led_6>
-  <acender_5><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>327</LINE></acender_5>
-  <a_led_7><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>153</LINE></a_led_7>
-  <acender_6><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>335</LINE></acender_6>
-  <a_led_8><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>159</LINE></a_led_8>
-  <acender_7><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>343</LINE></acender_7>
-  <a_led_9><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>165</LINE></a_led_9>
-  <acender_8><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>351</LINE></acender_8>
-  <a_led_10><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>171</LINE></a_led_10>
-  <acender_9><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>359</LINE></acender_9>
-  <a_led_11><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>177</LINE></a_led_11>
-  <acender_10><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>367</LINE></acender_10>
-  <a_led_12><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>183</LINE></a_led_12>
-  <acender_11><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>375</LINE></acender_11>
-  <acender_12><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>383</LINE></acender_12>
-  <b_led_2><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>198</LINE></b_led_2>
-  <apagar_1><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>299</LINE></apagar_1>
-  <fim_b_led><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>264</LINE></fim_b_led>
-  <b_led_3><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>204</LINE></b_led_3>
-  <apagar_2><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>307</LINE></apagar_2>
-  <b_led_4><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>210</LINE></b_led_4>
-  <apagar_3><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>315</LINE></apagar_3>
-  <b_led_5><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>216</LINE></b_led_5>
-  <apagar_4><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>323</LINE></apagar_4>
-  <b_led_6><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>222</LINE></b_led_6>
-  <apagar_5><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>331</LINE></apagar_5>
-  <b_led_7><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>228</LINE></b_led_7>
-  <apagar_6><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>339</LINE></apagar_6>
-  <b_led_8><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>234</LINE></b_led_8>
-  <apagar_7><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>347</LINE></apagar_7>
-  <b_led_9><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>240</LINE></b_led_9>
-  <apagar_8><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>355</LINE></apagar_8>
-  <b_led_10><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>246</LINE></b_led_10>
-  <apagar_9><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>363</LINE></apagar_9>
-  <b_led_11><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>252</LINE></b_led_11>
-  <apagar_10><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>371</LINE></apagar_10>
-  <b_led_12><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>258</LINE></b_led_12>
-  <apagar_11><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>379</LINE></apagar_11>
-  <apagar_12><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>387</LINE></apagar_12>
-  <DLY><FILE>C:\Users\u17188\Desktop\Projeto\Projeto\main.asm</FILE><LINE>284</LINE></DLY>
+  <ON_RESET><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>20</LINE></ON_RESET>
+  <start><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>33</LINE></start>
+  <apagar_todas_leds><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>267</LINE></apagar_todas_leds>
+  <loop1><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>38</LINE></loop1>
+  <acender_led><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>117</LINE></acender_led>
+  <loop_acender><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>47</LINE></loop_acender>
+  <delay_100><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>282</LINE></delay_100>
+  <apagar_led><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>192</LINE></apagar_led>
+  <fora_loop_acender><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>62</LINE></fora_loop_acender>
+  <subt_r20><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>67</LINE></subt_r20>
+  <fora_subt><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>74</LINE></fora_subt>
+  <loop_apagar><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>78</LINE></loop_apagar>
+  <acender_1><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>295</LINE></acender_1>
+  <acender_todas_leds><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>274</LINE></acender_todas_leds>
+  <a_led_2><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>123</LINE></a_led_2>
+  <fim_a_led><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>189</LINE></fim_a_led>
+  <a_led_3><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>129</LINE></a_led_3>
+  <acender_2><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>303</LINE></acender_2>
+  <a_led_4><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>135</LINE></a_led_4>
+  <acender_3><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>311</LINE></acender_3>
+  <a_led_5><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>141</LINE></a_led_5>
+  <acender_4><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>319</LINE></acender_4>
+  <a_led_6><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>147</LINE></a_led_6>
+  <acender_5><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>327</LINE></acender_5>
+  <a_led_7><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>153</LINE></a_led_7>
+  <acender_6><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>335</LINE></acender_6>
+  <a_led_8><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>159</LINE></a_led_8>
+  <acender_7><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>343</LINE></acender_7>
+  <a_led_9><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>165</LINE></a_led_9>
+  <acender_8><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>351</LINE></acender_8>
+  <a_led_10><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>171</LINE></a_led_10>
+  <acender_9><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>359</LINE></acender_9>
+  <a_led_11><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>177</LINE></a_led_11>
+  <acender_10><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>367</LINE></acender_10>
+  <a_led_12><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>183</LINE></a_led_12>
+  <acender_11><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>375</LINE></acender_11>
+  <acender_12><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>383</LINE></acender_12>
+  <b_led_2><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>198</LINE></b_led_2>
+  <apagar_1><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>299</LINE></apagar_1>
+  <fim_b_led><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>264</LINE></fim_b_led>
+  <b_led_3><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>204</LINE></b_led_3>
+  <apagar_2><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>307</LINE></apagar_2>
+  <b_led_4><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>210</LINE></b_led_4>
+  <apagar_3><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>315</LINE></apagar_3>
+  <b_led_5><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>216</LINE></b_led_5>
+  <apagar_4><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>323</LINE></apagar_4>
+  <b_led_6><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>222</LINE></b_led_6>
+  <apagar_5><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>331</LINE></apagar_5>
+  <b_led_7><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>228</LINE></b_led_7>
+  <apagar_6><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>339</LINE></apagar_6>
+  <b_led_8><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>234</LINE></b_led_8>
+  <apagar_7><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>347</LINE></apagar_7>
+  <b_led_9><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>240</LINE></b_led_9>
+  <apagar_8><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>355</LINE></apagar_8>
+  <b_led_10><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>246</LINE></b_led_10>
+  <apagar_9><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>363</LINE></apagar_9>
+  <b_led_11><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>252</LINE></b_led_11>
+  <apagar_10><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>371</LINE></apagar_10>
+  <b_led_12><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>258</LINE></b_led_12>
+  <apagar_11><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>379</LINE></apagar_11>
+  <apagar_12><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>387</LINE></apagar_12>
+  <DLY><FILE>C:\Users\u17188\Documents\Sergiaoo\Projeto\Projeto_Andar_LEDS\Projeto\main.asm</FILE><LINE>284</LINE></DLY>
  </LABELS>
 </ASSEMBLER_INFO>
